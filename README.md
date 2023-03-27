@@ -1,2 +1,2 @@
 # vfctoolsR
-A library that allows vcftools to be run from R
+This repo is empty because I mistyped the name! See vcftoolsR.
